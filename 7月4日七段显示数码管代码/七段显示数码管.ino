@@ -1,4 +1,3 @@
-//f前进; b后退;l左转; r右转; s停止;
 void setup()
 {
     pinMode(2,OUTPUT);
